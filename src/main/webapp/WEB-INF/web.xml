@@ -42,12 +42,12 @@
 
 	<servlet-mapping>
 		<servlet-name>greetServlet</servlet-name>
-		<url-pattern>/handsomerobot/greet</url-pattern>
+		<url-pattern>/HandsomeRobot/greet</url-pattern>
 	</servlet-mapping>
 
 	<servlet-mapping>
 		<servlet-name>authServlet</servlet-name>
-		<url-pattern>/handsomerobot/auth</url-pattern>
+		<url-pattern>/HandsomeRobot/auth</url-pattern>
 	</servlet-mapping>
 
 	<!-- Default page to serve -->
